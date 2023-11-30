@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + Electron js
 
 To run this code 
 
